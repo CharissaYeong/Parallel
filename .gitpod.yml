@@ -6,8 +6,3 @@
 
 tasks:
   - init: yarn install
-
-image:
-  file: .gitpod.dockerfile
-
-
